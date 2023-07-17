@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "64b5563e712afa37dae51806"
+  },
+  "title": "KING",
+  "artists": [
+    "Kanaria"
+  ],
+  "album": "KING"
+},
+{
+  "_id": {
+    "$oid": "64b5563e712afa37dae51807"
+  },
+  "title": "KICK BACK",
+  "artists": [
+    "Kenshi Yonezu"
+  ],
+  "album": "KICK BACK"
+},
+{
+  "_id": {
+    "$oid": "64b5563e712afa37dae51808"
+  },
+  "title": "Kaikai Kitan",
+  "artists": [
+    "Eve"
+  ],
+  "album": "Kaikan Kita"
+},
+{
+  "_id": {
+    "$oid": "64b5563e712afa37dae51809"
+  },
+  "title": "I beg you",
+  "artists": [
+    "Aimer"
+  ],
+  "album": "Penny Rain"
+},
+{
+  "_id": {
+    "$oid": "64b5563e712afa37dae5180a"
+  },
+  "title": "Komm, susser Tod",
+  "artists": [
+    "Megumi Ogata"
+  ],
+  "album": "Evangelion"
+},
+{
+  "_id": {
+    "$oid": "64b5563e712afa37dae5180b"
+  },
+  "title": "Major Crimes",
+  "artists": [
+    "HEALTH",
+    "Window Leather"
+  ],
+  "album": "Cyberpunk Radio Vol.2"
+},
+{
+  "_id": {
+    "$oid": "64b5563e712afa37dae5180c"
+  },
+  "title": "I Really Want to Stay Your House",
+  "artists": [
+    "Rosa Walton",
+    "Hallie Coggins"
+  ],
+  "album": "Cyberpunk Radio Vol.2"
+},
+{
+  "_id": {
+    "$oid": "64b5563e712afa37dae5180d"
+  },
+  "title": "Everything Goes On",
+  "artists": [
+    "Porter Robinson"
+  ],
+  "album": "Everything Goes On"
+},
+{
+  "_id": {
+    "$oid": "64b5563e712afa37dae5180e"
+  },
+  "title": "Goodbye To A World",
+  "artists": [
+    "Porter Robinson"
+  ],
+  "album": "Worlds"
+},
+{
+  "_id": {
+    "$oid": "64b5563e712afa37dae5180f"
+  },
+  "title": "Romance",
+  "artists": [
+    "YOASOBI"
+  ],
+  "album": "THE BOOK 2"
+}]
